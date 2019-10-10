@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The code was initially written on codepen.io and then formatted on VS code and integrated in create react app.
+The code was initially written on codepen.io and then formatted on VS code and integrated in create react app. The preview image is attached for reference. Complete project can be checked on [Codepen.io](https://codepen.io/necrocraft/full/bGbQQvK)
 
 ## Available Scripts
 
